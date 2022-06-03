@@ -7,15 +7,4 @@
 14
 1 June
 3 June
-Feature branch
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-Feature branch2
->>>>>>> feature
-=======
-Feature branch2
-Feature branch3
->>>>>>> feature
-
+new
