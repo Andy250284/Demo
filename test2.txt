@@ -3,3 +3,4 @@ Feature
 Feature 2
 Rename
 Stash
+New task
